@@ -26,3 +26,8 @@ div#res{
 div{
     color: black;
 }
+
+select#flista{
+    width: 150px;
+    height: 200px;
+}
